@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinHW2</string>
+    <string name="Order">點餐:  </string>
+    <string name="Select">選擇</string>
+    <string name="CheckMeal">確認點餐:  </string>
+    <string name="Drink">飲料:  </string>
+    <string name="Ice">冰塊:  </string>
+    <string name="Sugar">甜度:  </string>
+</resources>
